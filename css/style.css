@@ -434,6 +434,13 @@ img {
   font-family: "Space Grotesk", "Segoe UI", sans-serif;
 }
 
+.stat-item span {
+  display: block;
+  margin-top: 4px;
+  color: #32434b;
+  line-height: 1.5;
+}
+
 .faq {
   display: grid;
   gap: 12px;
