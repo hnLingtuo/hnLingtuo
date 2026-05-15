@@ -1,0 +1,12 @@
+<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Henan Lingtuo logo">
+  <defs>
+    <linearGradient id="lg" x1="24" y1="18" x2="154" y2="168" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#0D5B6B"/>
+      <stop offset="1" stop-color="#D88F3D"/>
+    </linearGradient>
+  </defs>
+  <rect x="10" y="10" width="160" height="160" rx="38" fill="#0D1F2E"/>
+  <path d="M48 128V50H68V110H128V128H48Z" fill="url(#lg)"/>
+  <path d="M86 50H106V128H86V50Z" fill="#95DFCE"/>
+  <circle cx="122" cy="60" r="16" fill="#F2C178"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Consulting services icon">
+  <rect x="8" y="10" width="48" height="44" rx="8" fill="#0D1F2E"/>
+  <path d="M18 22H46" stroke="#95DFCE" stroke-width="4" stroke-linecap="round"/>
+  <path d="M18 32H35" stroke="#95DFCE" stroke-width="4" stroke-linecap="round"/>
+  <circle cx="42" cy="38" r="8" fill="#D88F3D"/>
+  <path d="M47.5 43.5L54 50" stroke="#D88F3D" stroke-width="3" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,7 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Big data icon">
+  <ellipse cx="32" cy="14" rx="18" ry="8" fill="#0D5B6B"/>
+  <path d="M14 14V34C14 38.4 22.1 42 32 42C41.9 42 50 38.4 50 34V14" fill="#1F7F78"/>
+  <path d="M14 34V50C14 54.4 22.1 58 32 58C41.9 58 50 54.4 50 50V34" fill="#D88F3D"/>
+  <path d="M24 22H40" stroke="#EAF6F4" stroke-width="3" stroke-linecap="round"/>
+  <path d="M24 30H40" stroke="#EAF6F4" stroke-width="3" stroke-linecap="round"/>
+</svg>
